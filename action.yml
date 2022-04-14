@@ -3,7 +3,7 @@ description: 'Runs docfx as a GitHub Action with pdf support - cloned from nikee
 
 runs:
   using: docker
-  image: 'docker://darp/docfx-action:latest'
+  image: 'docker://darp-it/docfx-action:latest'
 
 branding:
   icon: book
